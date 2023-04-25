@@ -1,0 +1,12 @@
+{
+    "save-book-data": [
+      {
+        "book_id": "265226323",
+        "book_name": "Rich dad poor dad",
+        "book_description": "This is the best book for finance education and It helps you to learn all the requiered knowledge of finanace.",
+        "author_name": "Tom Brrok",
+        "cover_img": "https://fakeimg.pl/350x200/?text=Hello",
+        "id": 3
+      }
+    ]
+  }
